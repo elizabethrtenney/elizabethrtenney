@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Elizabeth Tenney
 
-<!--
-**elizabethrtenney/elizabethrtenney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a healthcare systems strategist and product-minded builder focused on AI-enabled workflow orchestration, clinical operations, and reducing friction at scale.
 
-Here are some ideas to get you started:
+My work sits at the intersection of healthcare delivery, systems design, product strategy, and implementation. I’m especially interested in how AI can support better coordination across complex workflows — not by adding more technology for its own sake, but by making the right information easier to use at the right moment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Building practical AI-enabled healthcare workflow prototypes
+- Mapping operational complexity into clearer systems and product decisions
+- Exploring workflow orchestration, governance, and trust in healthcare AI
+- Developing public portfolio projects that reflect real-world clinical systems problems
+
+## Projects
+
+- **Occ Med Workflow Orchestrator** — a vendor-neutral concept for coordinating occupational medicine workflows across employers, employees, clinics, operations, RCM, compliance, and technology.
+- **Personal OS** — a working system for organizing priorities, projects, knowledge, and execution.
+- More coming soon.
+
+## Connect
+
+- Website: [elizabethrtenney.com](https://elizabethrtenney.com)
+- LinkedIn: www.linkedin.com/in/elizabeth-tenney-5a3644a4
