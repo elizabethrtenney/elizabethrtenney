@@ -13,8 +13,9 @@ My work sits at the intersection of healthcare delivery, systems design, product
 
 ## Projects
 
-- **Occ Med Workflow Orchestrator** — a vendor-neutral concept for coordinating occupational medicine workflows across employers, employees, clinics, operations, RCM, compliance, and technology.
+- **[Occ Med Workflow Orchestrator](https://github.com/elizabethrtenney/occ-med-workflow-orchestrator)** — a vendor-neutral concept for coordinating occupational medicine workflows across employers, employees, clinics, operations, RCM, compliance, and technology.
 - **[Personal_OS](https://github.com/elizabethrtenney/Personal_OS)** — a working system for organizing priorities, projects, knowledge, and execution.
+- More coming soon.
 
 ## Connect
 
